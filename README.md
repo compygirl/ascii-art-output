@@ -46,7 +46,7 @@ The argument will be a flag, --reverse=<fileName.txt>, in which --reverse is the
 ## Usage/Examples
 Cloning storage to your host
 ```CMD/Terminal 
-git clone git@git.01.alem.school:ayessenb/ascii-art-output.git
+git clone git@github.com:compygirl/ascii-art-output.git
 ```
 Go to the downloaded repository:
 
